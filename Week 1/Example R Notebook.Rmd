@@ -1,0 +1,18 @@
+---
+title: "Example R Notebook"
+author: "Lantz McGinnis-Brown"
+date: "2020-08-13"
+output:
+  html_document
+---
+
+
+
+```{r}
+print("Hello! My name is _____")
+```
+#### One thing (or more) that I especially want to learn in this class is (are):
+1. Thing One
+
+#### One thing (or more) that makes me nervous about this class is (are):
+1. Thing One
